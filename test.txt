@@ -2,3 +2,4 @@ Hello Git
 Is new line
 Add new line
 New file index
+Delete
